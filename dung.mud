@@ -1509,11 +1509,11 @@ threat to his livelihood."]]!]>
 	 WATER-FUNCTION>
 
 <GOBJECT DWINDOW
-	 ["WINDO"]
-	 []
-	 "window"
-	 ,OVISON
-	 <>>
+         ["DWIND" "WINDO"]
+         []
+         "window"
+         ,OVISON
+         DWIND-FUNCTION>
 
 \
 
