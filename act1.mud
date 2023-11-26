@@ -2033,8 +2033,3 @@ burn.">)
 			  #DECL ((V) OBJECT)
 			  <COND (<==? .R <OROOM .V>> <MAPLEAVE T>)>>
 		  .VILLAINS>>>
-
-
-
- 
-

@@ -1,4 +1,3 @@
-
 "(c) Copyright 1978, Massachusetts Institute of Technology.  All rights reserved."
 
 "GUTS OF FROB:  BASIC VERBS, COMMAND READER, PARSER, VOCABULARY HACKERS."

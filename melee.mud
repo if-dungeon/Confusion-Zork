@@ -1,4 +1,3 @@
-
 "
 0 -- attacker misses
 1 -- defender unconscious

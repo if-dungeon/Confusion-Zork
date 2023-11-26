@@ -1,4 +1,3 @@
-
 "(c) Copyright 1978, Massachusetts Institute of Technology.  All rights reserved."
 
 <OR <LOOKUP "COMPILE" <ROOT>>
@@ -1013,9 +1012,3 @@ do the TAKE, etc. if necessary and calls the VERB function.
 			     <PUT .S 1 <ASCII <- .C 32>>>)>>
 	      .STR>
 	.STR>
-    
- 
-
- 
-
- 

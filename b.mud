@@ -1,4 +1,3 @@
-
 "BIBLE -- print catalog of object, rooms, and verbs"
 
 <SETG NO-SORT T>

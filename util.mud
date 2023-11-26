@@ -253,5 +253,3 @@
 		(<APPLY .FCN>)>>
    <PUT <PUT <PUT .PV 3 .PRSI> 2 .PRSO> 1 .PRSA>
    .R>
-
-

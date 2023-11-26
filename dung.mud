@@ -6559,4 +6559,3 @@ in Zorkmids?" ["30003"]>
 <ADD-INQOBJ <GET-OBJ "KNIFE">>
 
 <ADD-QUESTION "In which room is 'Hello, Sailor!' useful?" ["NONE" "NOWHE"]>
-

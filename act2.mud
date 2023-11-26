@@ -1,4 +1,3 @@
-
 ; "SUBTITLE COAL MINE"
 
 <DEFINE BOOM-ROOM ("AUX" (DUMMY? <>) (WIN ,WINNER) O (AOBJS <AOBJS .WIN>))
@@ -790,4 +789,4 @@ appointment!' He disappears, leaving you alone on the ledge." ,LONG-TELL1>)>
 	  (<TELL 
 "The gnome appears increasingly nervous.">
 	   <OR ,GNOME-FLAG!-FLAG <CLOCK-INT ,GNOIN 5>>
-	   <SETG GNOME-FLAG!-FLAG T>)>>
+	   <SETG GNOME-FLAG!-FLAG T>)>>

@@ -1,4 +1,3 @@
-
 "(c) Copyright 1978, Massachusetts Institute of Technology.  All rights reserved."
 
 <AND <L? ,MUDDLE 100>
